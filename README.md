@@ -2,7 +2,7 @@
 Javascript output based questions 
 
 
-# JavaScript output based interview questions 
+# JavaScript output based interview questions.
 ---
 
 #### Click :star: if you like it!!
